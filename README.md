@@ -5,6 +5,7 @@ Recommender systems (RS) have been so popular lately because of their powerful c
 Here we present two RS techniques: Collaborative Filtering and Hybrid filtering.
 
 This is a quick guide of Python codes to build a Recommendation Engine from scratch. 
+The table used is created randomly, we only focus on how RS works.
 
 Collaborative_Filtering_Item_Item.ipynb    
 Hybrid_Filtering.ipynb    
